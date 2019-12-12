@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="INSERT_OR_UPDATE">
+        <connection_type>http_connection</connection_type>
+        <id>x_snc_mj_trivia_sp.Trivia</id>
+        <multiple_connections>false</multiple_connections>
+        <name>Trivia</name>
+        <retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>mattias.johnsson</sys_created_by>
+        <sys_created_on>2019-12-11 20:37:03</sys_created_on>
+        <sys_id>78537b931b694490719263913d4bcb96</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_mj_trivia_sp.Trivia</sys_name>
+        <sys_package display_value="SN Trivia Spoke" source="x_snc_mj_trivia_sp">15c0fb5f1b294490719263913d4bcb63</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SN Trivia Spoke">15c0fb5f1b294490719263913d4bcb63</sys_scope>
+        <sys_update_name>sys_alias_78537b931b694490719263913d4bcb96</sys_update_name>
+        <sys_updated_by>mattias.johnsson</sys_updated_by>
+        <sys_updated_on>2019-12-11 20:37:03</sys_updated_on>
+        <type>connection</type>
+    </sys_alias>
+</record_update>

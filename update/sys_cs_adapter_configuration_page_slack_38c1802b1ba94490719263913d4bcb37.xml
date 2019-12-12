@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_cs_adapter_configuration_page_slack">
+    <sys_cs_adapter_configuration_page_slack action="INSERT_OR_UPDATE">
+        <client_type>slack</client_type>
+        <external_id>TCG8SR33R</external_id>
+        <icon>https://a.slack-edge.com/80588/img/avatars-teams/ava_0008-88.png</icon>
+        <name>NOW Demo</name>
+        <provider_auth display_value="ServiceNow Virtual Agent Slack App - TCG8SR33R">24c1802b1ba94490719263913d4bcb35</provider_auth>
+        <state>installed</state>
+        <sys_class_name>sys_cs_adapter_configuration_page_slack</sys_class_name>
+        <sys_created_by>mattias.johnsson</sys_created_by>
+        <sys_created_on>2019-12-11 21:39:04</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>38c1802b1ba94490719263913d4bcb37</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>TCG8SR33R</sys_name>
+        <sys_package display_value="SN Trivia Spoke" source="x_snc_mj_trivia_sp">15c0fb5f1b294490719263913d4bcb63</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SN Trivia Spoke">15c0fb5f1b294490719263913d4bcb63</sys_scope>
+        <sys_update_name>sys_cs_adapter_configuration_page_slack_38c1802b1ba94490719263913d4bcb37</sys_update_name>
+        <sys_updated_by>mattias.johnsson</sys_updated_by>
+        <sys_updated_on>2019-12-11 21:39:05</sys_updated_on>
+    </sys_cs_adapter_configuration_page_slack>
+</record_update>

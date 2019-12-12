@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="step_output_difficulty" label="step_output_difficulty" language="en" table="var__m_sys_hub_step_ext_output_1d92b7531b694490719263913d4bcbfb">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>step_output_difficulty</element>
+            <help/>
+            <hint/>
+            <label>step_output_difficulty</label>
+            <language>en</language>
+            <name>var__m_sys_hub_step_ext_output_1d92b7531b694490719263913d4bcbfb</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>mattias.johnsson</sys_created_by>
+            <sys_created_on>2019-12-11 20:32:46</sys_created_on>
+            <sys_id>e192f7531b694490719263913d4bcb1b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>step_output_difficulty</sys_name>
+            <sys_package display_value="SN Trivia Spoke" source="x_snc_mj_trivia_sp">15c0fb5f1b294490719263913d4bcb63</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SN Trivia Spoke">15c0fb5f1b294490719263913d4bcb63</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_output_1d92b7531b694490719263913d4bcbfb_step_output_difficulty_en</sys_update_name>
+            <sys_updated_by>mattias.johnsson</sys_updated_by>
+            <sys_updated_on>2019-12-11 20:32:46</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
